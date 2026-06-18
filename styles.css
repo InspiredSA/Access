@@ -381,10 +381,15 @@ h3 {
   align-items: center;
 }
 
-.resource-grid,
-.download-grid {
+.resource-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+}
+
+.download-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr);
   gap: 22px;
 }
 
@@ -428,6 +433,10 @@ video {
 
 .download-card {
   min-height: 220px;
+}
+
+.download-grid .download-card {
+  min-height: 180px;
 }
 
 .faq-layout {

@@ -12,8 +12,7 @@ This is a simple static website for parents to access instructions for the schoo
 ├── README.md
 └── assets/
     ├── inspired-logo-wordmark copy.png
-    ├── Reddam Register.pdf
-    ├── Reddford Register.pdf
+    ├── Inspired Schools Africa Register.pdf
     ├── REDDAM VIDEO.mp4
     └── REDDFORD VIDEO.mp4
 ```
@@ -37,10 +36,9 @@ For best results, use MP4 files that are compressed for web viewing. Keep these 
 
 The page currently links to:
 
-- `assets/Reddam Register.pdf`
-- `assets/Reddford Register.pdf`
+- `assets/Inspired Schools Africa Register.pdf`
 
-Keep these file names unless you also update the download links in `index.html`.
+Keep this file name unless you also update the download link in `index.html`.
 
 ## Recommended Repository Name
 
