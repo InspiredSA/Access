@@ -13,8 +13,7 @@ This is a simple static website for parents to access instructions for the schoo
 └── assets/
     ├── inspired-logo-wordmark copy.png
     ├── Inspired Schools Africa Register.pdf
-    ├── REDDAM VIDEO.mp4
-    └── REDDFORD VIDEO.mp4
+    └── Inspired.mp4
 ```
 
 ## Replace the Logo
@@ -27,10 +26,9 @@ Keep the file name as `inspired-logo-wordmark copy.png` unless you also update t
 
 The page currently links to:
 
-- `assets/REDDAM VIDEO.mp4`
-- `assets/REDDFORD VIDEO.mp4`
+- `assets/Inspired.mp4`
 
-For best results, use MP4 files that are compressed for web viewing. Keep these file names unless you also update the video paths in `index.html`.
+For best results, use an MP4 file that is compressed for web viewing. Keep this file name unless you also update the video path in `index.html`.
 
 ## Replace the PDF
 
